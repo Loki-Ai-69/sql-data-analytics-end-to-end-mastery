@@ -1,3 +1,6 @@
+#Amazon Fresh Market
+   
+
 -- ============================================================================
 -- CASE STUDY 01: AMAZON FARMERS MARKET (AFM) ANALYTICS
 -- MODULE: Class 1 to Class 4 Master Analysis Script
